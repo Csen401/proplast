@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/proplast/static/css/main.be2c3479.css",
+    "main.js": "/proplast/static/js/main.4a7b9348.js",
+    "static/media/SamirCompany.png": "/proplast/static/media/SamirCompany.99c7a27aa831c401432e.png",
+    "static/media/straws.png": "/proplast/static/media/straws.36009fe5f29561849bd9.png",
+    "static/media/img2.jpg": "/proplast/static/media/img2.317e98eaedee812f0bda.jpg",
+    "static/media/img16.jpg": "/proplast/static/media/img16.6009bec44a6489db3c3a.jpg",
+    "static/media/img3.jpg": "/proplast/static/media/img3.6009bec44a6489db3c3a.jpg",
+    "static/media/img7.jpg": "/proplast/static/media/img7.20555b1fdfc83cd47a8b.jpg",
+    "static/media/img6.jpg": "/proplast/static/media/img6.b09fc433d2dd4950d9f4.jpg",
+    "static/media/img9.jpg": "/proplast/static/media/img9.325f217ca30e41beffd7.jpg",
+    "static/media/img13.jpg": "/proplast/static/media/img13.fb5505958cd1b2d42e4f.jpg",
+    "static/media/logo.png": "/proplast/static/media/logo.bb0bb29d3132e597c491.png",
+    "static/media/img12.jpg": "/proplast/static/media/img12.11db13c3b60f7f0595b3.jpg",
+    "static/media/img8.jpg": "/proplast/static/media/img8.f9137137b57ab2a6e690.jpg",
+    "static/media/img10.jpg": "/proplast/static/media/img10.2a5c8b424ef4bc65a964.jpg",
+    "static/media/img5.jpg": "/proplast/static/media/img5.03eeaf78782cde4bb1a9.jpg",
+    "static/media/img11.jpg": "/proplast/static/media/img11.0ba58dee13fd4c2f184c.jpg",
+    "static/media/img1.jpg": "/proplast/static/media/img1.9dd8a68bdea1eed98355.jpg",
+    "static/media/img14.jpg": "/proplast/static/media/img14.df233b1ec04d35bf48b2.jpg",
+    "index.html": "/proplast/index.html",
+    "main.be2c3479.css.map": "/proplast/static/css/main.be2c3479.css.map",
+    "main.4a7b9348.js.map": "/proplast/static/js/main.4a7b9348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2c3479.css",
+    "static/js/main.4a7b9348.js"
+  ]
+}
