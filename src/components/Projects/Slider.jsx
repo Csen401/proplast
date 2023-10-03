@@ -10,7 +10,8 @@ import styled from 'styled-components';
 let data = [
     {
         img : require("../../AllProducts/img1.jpg"),
-        disc : "Lolipop Sticks -- any lenght and weight -- price : 70 egp/kg "
+        description:"Lolipop Sticks",
+        disc : "any lenght and weight -- price : 70 egp/kg "
     },
     {
       img : require("../../AllProducts/img2.jpg"),

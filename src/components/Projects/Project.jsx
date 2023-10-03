@@ -2,15 +2,13 @@ import React from 'react'
 import styled from 'styled-components';
 
 const Project = (props) => {
-    const { img, disc } = props.item;
+    const { img, description, disc } = props.item;
   return (
     <Container className='project'>
         <img src={img} alt="project" />
         <div className="disc">
-            <h4>Description</h4>
-            <p>{disc}
-            {/* <a href="/">demo</a> */}
-            </p>
+            <h4>{description}</h4>
+            <p>{disc}</p>
         </div>
     </Container>
   )
@@ -37,11 +35,11 @@ const Container = styled.div`
         position: absolute;
         right: 0;
         left: 0;
-        bottom: -10rem;
+        bottom: 0rem;
         text-align: left;
         padding: 0.5rem;
-        background: linear-gradient(rgba(0,0,0, 0.100), rgba(0,0,0, 0.80));
-        transition: all 400ms ease-in-out;
+        background: linear-gradient(rgba(0,0,0, 0.200), rgba(0,0,0, 0.80));
+        transition: transform 400ms ease-in-out;
         h1{
             font-size: 1rem;
         }
@@ -58,10 +56,6 @@ const Container = styled.div`
 
     :hover > img{
         transform: scale(1.3);
-    }
-
-    :hover > .disc{
-        bottom: 0;
     }
 
 `

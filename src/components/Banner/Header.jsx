@@ -1,16 +1,15 @@
-import React, { useState } from 'react'
 import styled from 'styled-components';
 import logo from'../../logo.png'
 const Header = () => {
-    const [bar, setBar] = useState(false);
+    // const [bar, setBar] = useState(false);
   return (
-    <Container bar={bar}>
+    <Container>
         <Logo>
-            <img src={logo} width={200}></img>
+            <img src={logo} width={200} alt='Zigzag'></img>
             {/* <h1><span className="orange">P</span>RO<span className="orange">P</span>LAST</h1> */}
         </Logo>
-        <Nav bar={bar}>
-            <span><a href="">Home</a></span>
+        <Nav >
+            <span><a href="#">Home</a></span>
             <span><a href="#service">Our Mission</a></span>
             <span><a href="#project">Products</a></span>
             <span><a href="#footer">Contact</a></span>
